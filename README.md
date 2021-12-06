@@ -47,6 +47,7 @@ Apart from Cloud, we can use Terrafrom to launch containers for example **Docker
 Click on Download CLI <br>
 
 • Select your OS compatible architecture <br>
+
 ![image](https://user-images.githubusercontent.com/67653554/144913138-5b5734c5-e299-46ee-b100-f9e6e5221e66.png)
 
 
