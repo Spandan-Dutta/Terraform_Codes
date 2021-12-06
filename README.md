@@ -12,7 +12,7 @@ any of the service provider. <br>
 
 Apart from Cloud, we can use Terrafrom to launch containers for example **Docker**. <br> <br>
 
-Terraform has four major commands:
+# Terraform has four major commands:
 
 $ terraform init
 $ terraform plan
