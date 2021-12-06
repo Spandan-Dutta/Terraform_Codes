@@ -1,5 +1,5 @@
  <p align="center">
-  <img src="https://user-images.githubusercontent.com/67653554/144897979-299e8f81-b00f-4bd3-b199-660a5588bd2e.png" />
+  <img src="https://user-images.githubusercontent.com/67653554/144898694-37910e24-38a3-42ca-9e5a-4708ffc5f1ca.png" />
 </p>
 
 # Terraform
