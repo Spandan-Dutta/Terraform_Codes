@@ -21,4 +21,7 @@ Apart from Cloud, we can use Terrafrom to launch containers for example **Docker
 
 **Let's discuss each command briefly:**  <br>
 
-• **terraform init** - This will check all the providers inside the code and for example it found AWS so it will download all the necessary plugins which will help Terraform to &nbsp communicate with the AWS provider.
+• **terraform init** - This will check all the providers inside the code and for example it found AWS so it will download all the necessary plugins which will help Terraform to communicate with the AWS provider. <br>
+<br>
+
+• **terraform plan** - 
