@@ -10,7 +10,7 @@ Infrastructure As Code (IaC) is the process of managing and provisioning compute
 code is written in terraform. Terrafrom uses JSON as a language. Terraform  has become more popular because it has a simple syntax that allows easy modularity and works against multi-cloud. Terraform is compatible with every Cloud Service Provider **AWS,GCP,AZURE and many more**. You just have to write the code once and then you can use that code with
 any of the service provider. <br>
 
-Apart from Cloud Service Providers, we can use Terrafrom to launch containers.
+Apart from Cloud, we can use Terrafrom to launch containers for example **Docker**. <br> <br>
 
 Terraform has four major commands:
 
