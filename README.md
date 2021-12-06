@@ -19,4 +19,6 @@ Apart from Cloud, we can use Terrafrom to launch containers for example **Docker
 • $ terraform apply <br>
 • $ terraform destroy**<br>
 
-**Let's discuss each command briefly**
+**Let's discuss each command briefly:**  <br>
+
+• **terraform init** - 
