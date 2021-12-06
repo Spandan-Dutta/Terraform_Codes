@@ -61,6 +61,7 @@ Click on Download CLI <br>
 • **Now just copy the directory path and set the environment variable path.** <br>
 
 ![image](https://user-images.githubusercontent.com/67653554/144914918-dfb31e5f-0328-44ef-ac4a-4cd1c08bbb48.png) <br>
+
 ![image](https://user-images.githubusercontent.com/67653554/144915159-21e42d6f-8d0a-400b-9b10-d05d46f2e3dc.png) <br>
 
 
