@@ -64,6 +64,11 @@ Click on Download CLI <br>
 
 ![image](https://user-images.githubusercontent.com/67653554/144915159-21e42d6f-8d0a-400b-9b10-d05d46f2e3dc.png) <br>
 
+• **Now just open the command prompt and write terraform -v** <br>
+
+![image](https://user-images.githubusercontent.com/67653554/144915552-9c28ee9e-3ae4-48fa-af8b-09ea57bf169c.png)
+
+
 
 
 
