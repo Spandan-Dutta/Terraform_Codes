@@ -21,7 +21,7 @@ Apart from Cloud, we can use Terrafrom to launch containers for example **Docker
 
 **Let's discuss each command briefly:**  <br>
 
-• **terraform init** - This will check all the providers inside the code and for example it found AWS so it will download all the necessary plugins which will help Terraform to communicate with the AWS provider.terraform folder gets created on the left side whenever we do terraform init. It installs all the necessary plugins required for the terraform to execute. As in the code above we only used AWS as the provider so inside the terraform folder all the AWS related plugins terraform will download.<br>
+• **terraform init** - This will check all the providers inside the code and for example it found AWS so it will download all the necessary plugins which will help Terraform to communicate with the AWS provider.terraform folder gets created on the left side of your code editor (in my case VS Code) whenever we do terraform init. It installs all the necessary plugins required for the terraform to execute. As in the code above we only used AWS as the provider so inside the terraform folder all the AWS related plugins terraform will download.<br>
 <br>
 
 • **terraform plan** - This is a optional command. It just does a dry run of the code. <br>
@@ -48,7 +48,10 @@ Click on Download CLI <br>
 
 • Select your OS compatible architecture <br>
 
-![image](https://user-images.githubusercontent.com/67653554/144913138-5b5734c5-e299-46ee-b100-f9e6e5221e66.png)
+![image](https://user-images.githubusercontent.com/67653554/144913138-5b5734c5-e299-46ee-b100-f9e6e5221e66.png) <br>
+
+•  Now as you downlaod it, a zip file will be downloaded in your system. after that just extract it and you will be able to see a exe file of terraform. <br>
+![image](https://user-images.githubusercontent.com/67653554/144913732-3055a372-2b17-4dc6-9603-04e2f20061a6.png)
 
 
 
