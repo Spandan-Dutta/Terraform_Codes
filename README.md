@@ -66,7 +66,10 @@ Click on Download CLI <br>
 
 • **Now just open the command prompt and write terraform -v** <br>
 
-![image](https://user-images.githubusercontent.com/67653554/144915552-9c28ee9e-3ae4-48fa-af8b-09ea57bf169c.png)
+![image](https://user-images.githubusercontent.com/67653554/144915552-9c28ee9e-3ae4-48fa-af8b-09ea57bf169c.png) <br>
+
+**By this command you can see the version of Terraform installed in your system.**
+
 
 
 
