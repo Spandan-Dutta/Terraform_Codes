@@ -21,7 +21,14 @@ Apart from Cloud, we can use Terrafrom to launch containers for example **Docker
 
 **Let's discuss each command briefly:**  <br>
 
-• **terraform init** - This will check all the providers inside the code and for example it found AWS so it will download all the necessary plugins which will help Terraform to communicate with the AWS provider. <br>
+• **terraform init** - This will check all the providers inside the code and for example it found AWS so it will download all the necessary plugins which will help Terraform to communicate with the AWS provider.terraform folder gets created on the left side whenever we do terraform init. It installs all the necessary plugins required for the terraform to execute. As in the code above we only used AWS as the provider so inside the terraform folder all the AWS related plugins terraform will download.<br>
 <br>
 
-• **terraform plan** - 
+• **terraform plan** - This is a optional command. It just does a dry run of the code. <br>
+<br>
+
+• **terraform apply** - Same as terraform plan. It will execute the whole code. <br>
+<br>
+
+• **terraform destroy** - This command destroys your infrastructure. By writing this command you can destroy your whole work in one go.
+
