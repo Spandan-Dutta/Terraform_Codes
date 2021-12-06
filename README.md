@@ -46,13 +46,25 @@ Apart from Cloud, we can use Terrafrom to launch containers for example **Docker
 ![image](https://user-images.githubusercontent.com/67653554/144912815-7afb7fbf-65c2-4b27-9cda-b3e78e16406a.png) <br>
 Click on Download CLI <br>
 
-• **Select your OS compatible architecture** <br>
+• **Select your OS compatible architecture.** <br>
 
 ![image](https://user-images.githubusercontent.com/67653554/144913138-5b5734c5-e299-46ee-b100-f9e6e5221e66.png) <br>
 
 •  **Now as you downlaod it, a zip file will be downloaded in your system. after that just extract it and you will be able to see a exe file of terraform.** <br> 
 
-![image](https://user-images.githubusercontent.com/67653554/144913732-3055a372-2b17-4dc6-9603-04e2f20061a6.png)
+![image](https://user-images.githubusercontent.com/67653554/144913732-3055a372-2b17-4dc6-9603-04e2f20061a6.png) <br>
+
+• **Just copy the exe file and make a folder named Terraform in your C drive and paste that exe file inside that folder.** <br>
+
+![image](https://user-images.githubusercontent.com/67653554/144914459-bc73c14c-51f2-498e-9ead-99bee5b2582d.png) <br> 
+
+• **Now just copy the directory path and set the environment variable path.** <br>
+
+![image](https://user-images.githubusercontent.com/67653554/144914918-dfb31e5f-0328-44ef-ac4a-4cd1c08bbb48.png) <br>
+![image](https://user-images.githubusercontent.com/67653554/144915159-21e42d6f-8d0a-400b-9b10-d05d46f2e3dc.png) <br>
+
+
+
 
 
 
