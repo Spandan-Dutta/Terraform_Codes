@@ -37,4 +37,4 @@ Apart from Cloud, we can use Terrafrom to launch containers for example **Docker
 • Uber <br>
 • Udemy <br>
 • Twitch <br>
-• Slack <br>
+• Slack and many more..... <br>
