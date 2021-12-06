@@ -33,5 +33,5 @@ Apart from Cloud, we can use Terrafrom to launch containers for example **Docker
 • **terraform destroy** - This command destroys your infrastructure. By writing this command you can destroy your whole work in one go. <br>
 <br>
 
-#Companies using Terraform in their tech stack:
+# Companies using Terraform in their tech stack:
 
