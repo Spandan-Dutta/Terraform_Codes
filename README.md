@@ -41,16 +41,16 @@ Apart from Cloud, we can use Terrafrom to launch containers for example **Docker
 
 # Steps to install Terraform in your system: <br>
 
-•  Download Terraform's executable file in your system by visiting  <a href="https://www.terraform.io/" target="_blank">here</a> <br>
+•  **Download Terraform's executable file in your system by visiting  <a href="https://www.terraform.io/" target="_blank">here</a>** <br>
 
 ![image](https://user-images.githubusercontent.com/67653554/144912815-7afb7fbf-65c2-4b27-9cda-b3e78e16406a.png) <br>
 Click on Download CLI <br>
 
-• Select your OS compatible architecture <br>
+• **Select your OS compatible architecture <br>
 
 ![image](https://user-images.githubusercontent.com/67653554/144913138-5b5734c5-e299-46ee-b100-f9e6e5221e66.png) <br>
 
-•  Now as you downlaod it, a zip file will be downloaded in your system. after that just extract it and you will be able to see a exe file of terraform. <br> 
+•  **Now as you downlaod it, a zip file will be downloaded in your system. after that just extract it and you will be able to see a exe file of terraform. <br> 
 
 ![image](https://user-images.githubusercontent.com/67653554/144913732-3055a372-2b17-4dc6-9603-04e2f20061a6.png)
 
