@@ -3,7 +3,9 @@
 </p>
 
 # What is Terraform??
-Terraform is an open-source  **Infrastructure As Code** software tool created by HashiCorp. Users define and provide data center infrastructure using a declarative configuration language known as HashiCorp Configuration Language (HCL).Terraform is a tool for building, changing, and versioning infrastructure safely and efficiently. Terraform can manage existing and popular service providers as well as custom in-house solutions.Terrafrom is 
+Terraform is an open-source  **Infrastructure As Code** software tool created by HashiCorp. Users define and provide data center infrastructure using a declarative configuration language known as HashiCorp Configuration Language (HCL).Terraform is a tool for building, changing, and versioning infrastructure safely and efficiently. Terraform can manage existing and popular service providers as well as custom in-house solutions.
+
+**What is Infrastructure As Code?**
 
 Terraform has four major commands:
 
